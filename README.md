@@ -1,8 +1,10 @@
-## Hi there, Im McHelium.
-~Nope~
-**Yup**
-***Ok***
-$Lv$
+***
+
+# 🤔 $\color{green}{\textbf{About}}$ $\color{lime}{\textbf{Me}}$
+
+$🌸\color{red}{\textbf{ど}}\color{orange}{\textbf{う}}\color{yellow}{\textbf{ぞ}}\color{green}{\textbf{よ}}\color{blue}{\textbf{ろ}}\color{indigo}{\textbf{し}}\color{violet}{\textbf{く}}$
+
+<a href="https://youtube.com" style="color: green">Hi</a>
 <!--
 **minhnhatha/minhnhatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
