@@ -1,7 +1,8 @@
-## Hi there 👋
-
-<h1>ohmy</h1>
-<button style="color: green">click me!</button>
+## Hi there, Im McHelium.
+~Nope~
+**Yup**
+***Ok***
+$Lv$
 <!--
 **minhnhatha/minhnhatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
